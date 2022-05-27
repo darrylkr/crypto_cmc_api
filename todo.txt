@@ -1,0 +1,4 @@
+Identify upcoming cryptos through parsing hourly data's +/- % per hr/24hr/7d.
+Charting price action of high performers - LSTM implementation in tf(?)
+Analysing breakout patterns of these 'on the rise' cryptos.
+Predicting future breakouts for KIV'd on the rise cryptos.
